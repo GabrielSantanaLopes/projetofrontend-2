@@ -1,0 +1,8 @@
+/* GERAL */
+*{
+    margin: 0; /*zera as margens */
+    padding: 0; /* zera os espaçamentos internos */
+    box-sizing:border-box;   
+}
+
+
